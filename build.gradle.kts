@@ -3,4 +3,6 @@ plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
     alias(libs.plugins.kotlin.compose) apply false
+    // ADD THIS LINE FOR HILT:
+    alias(libs.plugins.dagger.hilt) apply false // Ensure you have this defined in libs.versions.toml
 }
