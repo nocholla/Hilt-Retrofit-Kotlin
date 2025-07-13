@@ -20,9 +20,23 @@
 
 ✅ Clean separation of concerns
 
-🚀 Tech Stack
+🚀 Tech Stack : Layer Tools / Libs Used 
 
-Layer Tools/Libs Used Dependency Injection Hilt (Jetpack) UI Jetpack Compose / XML + ViewModel Networking OkHttp Local DB Room Async Coroutines + Flow Architecture MVVM + Repository
+Dependency Injection - Hilt 
+
+(Jetpack) UI - Jetpack Compose 
+
+ViewModel 
+
+Networking 
+
+OkHttp  
+
+Async Coroutines + Flow Architecture 
+
+MVVM 
+
+Repository
 
 🧪 Testing
 
@@ -41,3 +55,14 @@ Open in Android Studio Arctic Fox or later
 Run on an emulator or real device with Android 5.0+
 
 📷 Screenshots
+
+<img width="1080" height="2400" alt="1 Hilt-Okhttp3-Kotlin" src="https://github.com/user-attachments/assets/a61ae0ca-48a3-4cf3-91c6-2c99c52ec2ae" />
+
+<img width="1080" height="2400" alt="2 Hilt-Okhttp3-Kotlin" src="https://github.com/user-attachments/assets/c981dab4-54ec-4b5a-90b1-0dbb445099db" />
+
+<img width="1080" height="2400" alt="3 Hilt-Okhttp3-Kotlin" src="https://github.com/user-attachments/assets/e1328102-a0d1-45fb-82f8-9b1f0d124e50" />
+
+
+
+
+
