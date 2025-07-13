@@ -1,4 +1,4 @@
-package com.nocholla.hilt.di.hilt.retrofit.ui.theme
+package com.nocholla.hilt.di.hilt.retrofit.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

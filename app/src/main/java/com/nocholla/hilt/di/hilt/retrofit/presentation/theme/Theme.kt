@@ -1,6 +1,5 @@
-package com.nocholla.hilt.di.hilt.retrofit.ui.theme
+package com.nocholla.hilt.di.hilt.retrofit.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
