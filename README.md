@@ -1,4 +1,4 @@
-# Tasks List : Clean Architecture / Hilt DI / Retrofit / Coroutines / Jetpack Compose UI / State Management
+# Tasks List : Clean Architecture / Hilt DI / Retrofit / Coroutines / Jetpack Compose UI / Themes / State Management
 
 📦 Hilt Dependency Injection – Android A modern Android project demonstrating Hilt for dependency injection using Kotlin, Jetpack libraries, and clean architecture principles.
 
